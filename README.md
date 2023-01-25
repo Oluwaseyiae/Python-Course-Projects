@@ -12,8 +12,9 @@
 6. Hangman Game<br>
 7. Rock Paper Scissors Game<br>
 
-<h2>Email Slicer</h2>
- 
+<h2>Email Slicer</h2> 
+<p>Email Slicer is a simple tool where the email address is provided as an input and as an output, the application returns the username and the domain of the email address given. It makes use of the slicing operations of Python.</p>
+
 <h2>Text to Speech Converter</h2>
 
 <h2>The 8 Balls Magic Game</h2>
