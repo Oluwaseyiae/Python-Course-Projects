@@ -19,12 +19,15 @@
 <p>Text to speech Converter is a simple tool used in converting text a text file into an audible voice or Mp3 format.</p>
 
 <h2>The 8 Balls Magic Game</h2>
-  
+<p>The 8 Magic Balls Game is a game that gives random answers to any questions a player asked. </p>
 <h2>Tic-Tac-Toe Game</h2>
 <p>Tic Tac Toe is one of the most played games and is the best time killer game that you can play anywhere with just a pen and paper. This game is made with a python modul called Random. It gives different numbers for every insurances.</p>
 
 <h2>Dice Rolling Game</h2>
-  
+<p>Dice Rolling Game is a where a player will roll a one six-sided die and move a player or pawn to that number of spaces on the board. </p>
+
 <h2>Hangman Game</h2>
+<p>Hangman is a guessing game for two or more players. One player thinks of a word, phrase or sentence and the other(s) tries to guess it by suggesting letters within a certain number of guesses. </p>
 
 <h2>Rock Paper Scissors Game</h2>
+<p>Rock Paper Scissors is a guessing game. Rock Paper Scissors is a hand game usually played between two people. In this game, scissors can beat paper, paper can beat rock, and rock can beat scissors.</p>
