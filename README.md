@@ -20,6 +20,7 @@
 <h2>The 8 Balls Magic Game</h2>
   
 <h2>Tic-Tac-Toe Game</h2>
+<p>Tic Tac Toe is one of the most played games and is the best time killer game that you can play anywhere with just a pen and paper</p>
 
 <h2>Dice Rolling Game</h2>
   
