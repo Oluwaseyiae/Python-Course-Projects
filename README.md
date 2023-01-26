@@ -16,11 +16,12 @@
 <p>Email Slicer is a simple tool where the email address is provided as an input and as an output, the application returns the username and the domain of the email address given. It makes use of the slicing operations of Python.</p>
 
 <h2>Text to Speech Converter</h2>
+<p>Text to speech Converter is a simple tool used in converting text a text file into an audible voice or Mp3 format.</p>
 
 <h2>The 8 Balls Magic Game</h2>
   
 <h2>Tic-Tac-Toe Game</h2>
-<p>Tic Tac Toe is one of the most played games and is the best time killer game that you can play anywhere with just a pen and paper</p>
+<p>Tic Tac Toe is one of the most played games and is the best time killer game that you can play anywhere with just a pen and paper. This game is made with a python modul called Random. It gives different numbers for every insurances.</p>
 
 <h2>Dice Rolling Game</h2>
   
