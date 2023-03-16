@@ -11,6 +11,9 @@
 5. Dice Rolling Game<br>
 6. Hangman Game<br>
 7. Rock Paper Scissors Game<br>
+8. Guess Number Game<br>
+9. Password Manager<br>
+10. Unit Converter<br>
 
 <h2>Email Slicer</h2> 
 <p>Email Slicer is a simple tool where the email address is provided as an input and as an output, the application returns the username and the domain of the email address given. It makes use of the slicing operations of Python.</p>
