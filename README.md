@@ -30,7 +30,7 @@
 <p>Dice Rolling Game is a where a player will roll a one six-sided die and move a player or pawn to that number of spaces on the board. </p>
 
 <h2>Hangman Game</h2>
-<p>Hangman is a guessing game for two or more players. One player thinks of a word, phrase or sentence and the other(s) tries to guess it by suggesting letters within a certain number of guesses. </p>
+<p>Hangman is a guessing game for two or more players. One player thinks of a word, phrase or sentence and the other(s) tries to guess it by suggesting letters within a certain number of guesses.</p>
 
 <h2>Rock Paper Scissors Game</h2>
 <p>Rock Paper Scissors is a guessing game. Rock Paper Scissors is a hand game usually played between two people. In this game, scissors can beat paper, paper can beat rock, and rock can beat scissors.</p>
